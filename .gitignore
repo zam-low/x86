@@ -1,0 +1,11 @@
+# Build outputs
+*.o
+*.bin
+*.elf
+*.iso
+*.img
+*.a
+
+# IDE files (if using VS Code, etc.)
+.vscode/
+.idea/
