@@ -9,3 +9,6 @@
 # IDE files (if using VS Code, etc.)
 .vscode/
 .idea/
+bin/
+src/kernel
+src/boot/boot
